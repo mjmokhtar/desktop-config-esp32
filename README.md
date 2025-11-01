@@ -18,7 +18,7 @@ Clone repository ini ke komputer lokal Anda:
 
 ```bash
 git clone https://github.com/mjmokhtar/desktop-config-esp32
-cd nama-repo
+cd desktop-config-esp32
 ````
 
 ---
