@@ -1,0 +1,24 @@
+# Requirements for ESP32 GPIO Controller PyQt5 Application
+
+# Core dependencies
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
+PyQtChart
+
+# Serial communication
+pyserial
+
+# Data processing
+numpy
+pandas
+
+# Optional for advanced features
+matplotlib  # For additional plotting
+plotly     # For interactive plots
+scipy      # For signal processing
+
+# Development tools (optional)
+pyqt5-tools  # For Qt Designer
+pylint           # Code linting
+black # Code formatting
