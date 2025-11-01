@@ -69,6 +69,8 @@ Atau jika Anda menggunakan macOS/Linux dan Python 3:
 python3 main.py
 ```
 
+![image](image/image.png)
+
 ---
 
 ## 🧰 5. (Opsional) Menonaktifkan Virtual Environment
